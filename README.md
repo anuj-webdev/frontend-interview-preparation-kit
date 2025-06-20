@@ -138,6 +138,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
       - [Javascript Info](https://javascript.info/)
       - [Nisha Singla JS Playlist](https://youtu.be/Yy9A2rAkOgw?si=C6BeGQ6zLQjiyXFe) : Focus on the following concepts from this channel: Shallow and deep copy, `this` keyword, call apply bind, prototype
       - [Techsith](https://www.youtube.com/@Techsithtube): Check his interview questions playlist.
+      - [FrontendGeek](https://frontendgeek.com/frontend-interview/javascript-interview): Best Curated Resources (YouTube, GitHub, Projects, Blogs) related to all important JavaScript Topics.
     </details>
 
     <details>
